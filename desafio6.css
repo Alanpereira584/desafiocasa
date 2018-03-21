@@ -1,0 +1,47 @@
+.inicio{
+	height: 650px;
+	width: 750px;
+	background-color: #8dcb41;
+}
+.casa{
+	height: 133px;
+	width: 171px;
+	background-color: #faf519;
+	position: absolute;
+	top:200px;
+	left: 150px;
+}
+.janela{
+	background-color: #898989;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 6px;
+	left:62px;
+
+}
+.porta{
+	background-color: #4a2885;
+	height: 63px;
+	width: 36px;
+	position: absolute;
+	top: 70px;
+	left:20px;
+}
+.rio{
+	height: 119px;
+	width: 742px;
+	background-color:#00aeed;
+	position: absolute;
+	top: 135px;
+	left:8px;
+}
+.macaneta{
+	background-color: #000000;
+	height: 8px;
+	width : 11px;
+	position: absolute;
+	top: 23px;
+	left:3px;
+	border-radius: 8px;
+}

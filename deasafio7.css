@@ -1,0 +1,21 @@
+.inicio{
+	background-color: #08d127;
+	height:180px;
+	width: 100px;
+	position: relative;
+}
+.monstro{
+	position: absolute;
+	height:50px;
+	width: 50px;
+	background-color: #009605;
+	border-radius: 50px;
+	top: 100px;
+	left: 100px;
+
+}
+.olho{
+	height: 100;
+	width: 100;
+	background-color: #ffffff;
+}
